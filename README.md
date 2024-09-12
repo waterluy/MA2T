@@ -2,7 +2,7 @@
 
 ![framework](./framework.png)
 
-We provide [$MA^2T$](https://tianyuan2001.github.io/MA2T.github.io/) adversarial training codes for [UniAD](https://github.com/OpenDriveLab/UniAD) and [VAD](https://github.com/hustvl/VAD) implemented in the paper, as well as corresponding adaptive white-box attack codes. 
+We provide [MA2T](https://tianyuan2001.github.io/MA2T.github.io/) adversarial training codes for [UniAD](https://github.com/OpenDriveLab/UniAD) and [VAD](https://github.com/hustvl/VAD) implemented in the paper, as well as corresponding adaptive white-box attack codes. 
 
 ## Preparation
 
