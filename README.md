@@ -1,6 +1,6 @@
 # Module-wise Adaptive Adversarial Training for End-to-end Autonomous Driving
 
-![framework](./framework.png) 
+![framework](framework.png) 
 
 We provide [MA2T](https://tianyuan2001.github.io/MA2T.github.io/) adversarial training codes for [UniAD](https://github.com/OpenDriveLab/UniAD) and [VAD](https://github.com/hustvl/VAD) implemented in the paper, as well as corresponding adaptive white-box attack codes. 
 
