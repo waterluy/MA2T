@@ -25,6 +25,10 @@ cd uniad
 bash ./tools/uniad_dist_adv_train.sh ./projects/configs/stage2_e2e/base_e2e.py 8 --epoch <XXX> --img --track_motion --seg_motion --motion_occ --motion_plan --pgd-cfg steps=<XXX> img_eps=<XXX> track_eps=<XXX> seg_eps=<XXX> motion_traj_eps=<XXX> --resume-from <XXX> --dynamic ma2t
 ```
 
+
+
+
+
 ### VAD
 
 Run the following command and replace the corresponding config and weights with your path:
